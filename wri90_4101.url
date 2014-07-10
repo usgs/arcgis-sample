@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://pubs.er.usgs.gov/publication/wri904101
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://pubs.er.usgs.gov/publication/wri904101
+IDList=
+IconFile=http://pubs.er.usgs.gov/favicon.ico
+IconIndex=1
