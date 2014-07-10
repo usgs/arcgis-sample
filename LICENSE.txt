@@ -45,6 +45,8 @@ The user assumes all risk for any damages whatsoever resulting from loss of use,
 profits arising in connection with the access, use, quality, or performance of this 
 software.
 
+This code is PROVISIONAL and SUBJECT TO REVISION.
+
 These files contain no Personally Identifiable Information (PII).
 
 The sample datasets are either created as arbitrary test data, or are sourced from other 
